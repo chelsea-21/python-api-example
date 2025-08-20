@@ -103,5 +103,3 @@ api.add_resource(TransformText, "/transform")
 
 if __name__ == "__main__":
     app.run(debug=True)
-
-exit()
